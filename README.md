@@ -24,4 +24,4 @@
 
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kun-Alexandru&show_icons=true&locale=en&layout=compact" alt="Kun-Alexandru" /></p>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Kun-Alexandru&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=kun-alexandru&layout=compact&theme=radical&hide=jupyter%20notebook)https://github-readme-stats.vercel.app/api/top-langs/?username=kun-alexandru&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Kun-Alexandru" /></p>
