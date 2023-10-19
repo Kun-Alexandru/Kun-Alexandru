@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 
--  Second-year Computer Science student at Babes-Bolyai University in Cluj-Napoca
+-  Third-year Computer Science student at Babes-Bolyai University in Cluj-Napoca
 -  How to reach me <a href = "mailto: kunalexandru08@gmail.com">kunalexandru08@gmail.com</a>
 
 ---
